@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334511664023",
+    "project_id": "login-register-firebase-ff10d",
+    "storage_bucket": "login-register-firebase-ff10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334511664023:android:61564c078de281a9b5b2d2",
+        "android_client_info": {
+          "package_name": "com.example.login_system2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1q7wydaGCSfOABZnjFZjZHHoWPvturE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334511664023:android:530c242293fb474db5b2d2",
+        "android_client_info": {
+          "package_name": "com.example.login_system3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1q7wydaGCSfOABZnjFZjZHHoWPvturE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
